@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/maduparente">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maduparente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduparente&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=maduparente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduparente&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
