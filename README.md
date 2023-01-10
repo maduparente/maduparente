@@ -1,4 +1,4 @@
-### Olá! Eu sou a Madu ✌
+### Hello, I'm Madu, Welcome ✌
 
 - 📚 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🌱 Studying English
