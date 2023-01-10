@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Madu ✌
 
 - 📚 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 💻 Iniciando curso de FullStack na Digital College
 - 🌱 Studying English
 <div align="center">
   <a href="https://github.com/maduparente">
