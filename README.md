@@ -1,13 +1,14 @@
-### Hello, I'm Madu, welcome ✌
+### Hello hello, me chamo Madu! Welcome ✌
 
 💻 Front-End Developer
 
 - 📚 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🌎 Studying English
+- 🌎 English Practitioner
 <div align="center">
   <a href="https://github.com/maduparente">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maduparente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduparente&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
