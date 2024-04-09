@@ -3,7 +3,7 @@
 💻 Front-End Developer
 
 - 📚 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🌎 20y, expanding knowledge in Front-End and Frameworks
+- 🌎 20y, inproving knowledge in Front-End and Frameworks
 <div align="center">
   <a href="https://github.com/maduparente">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maduparente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
